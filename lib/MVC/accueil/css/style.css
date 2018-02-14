@@ -1,0 +1,21 @@
+#formRow
+{
+    margin-top: 5em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+form
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#allowanceRow
+{
+    margin-top: 5em;
+}

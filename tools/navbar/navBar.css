@@ -1,0 +1,33 @@
+#navContent
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav div
+{
+    background-color: black;
+}
+
+#navText, .navGlyph
+{
+    color: white;
+}
+
+#navText
+{
+    font-size: 1.7em;
+}
+
+.navGlyph
+{
+    font-size: 2em;
+}
+
+#discoBtn
+{
+    background-color: black;
+    border: none;
+}
